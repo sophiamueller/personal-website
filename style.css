@@ -1,0 +1,83 @@
+.navig {
+  display: flex;
+}
+
+.box1 {
+  height: 70px;
+  width: 400px;
+  background-color: white;
+}
+
+.background {
+  height: 50%;
+  background: url(/Users/sophiamuller/personal-website/bollard-589043_1280.jpg);
+  background-size: cover;
+  opacity: 1;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.ueberschrift {
+  display: flex;
+  justify-content: center;
+  flex: center;
+  color: white;
+  margin: 2%;
+}
+
+.box2 {
+  display: flex;
+  justify-content: center;
+  flex: center;
+  margin: 5%;
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  opacity: 0.8;
+}
+.box3 {
+  display: flex;
+  justify-content: center;
+  flex: center;
+  margin: 5%;
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  opacity: 0.8;
+}
+.box4 {
+  display: flex;
+  justify-content: center;
+  flex: center;
+  margin: 5%;
+  height: 400px;
+  width: 400px;
+  background-color: white;
+  opacity: 0.8;
+}
+
+.text1 {
+  display: flex;
+  justify-content: center;
+  margin: 2%;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.box5 {
+  margin: 5%;
+  height: 100%;
+  width: 30%;
+}
+
+.box6 {
+  margin: 5%;
+}
+.footer {
+  background-color: red;
+}
